@@ -179,3 +179,7 @@ nav a:hover {
   -webkit-animation-name: flipInX;
   animation-name: flipInX;
 }
+
+h3 {
+  color: #ffffff;
+}
